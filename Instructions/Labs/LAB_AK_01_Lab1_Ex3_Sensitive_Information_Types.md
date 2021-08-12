@@ -166,7 +166,7 @@ EDM ベースの分類を機密データを含むデータベースと関連付�
 
 1. Client 1 VM (LON-CL1) には **lon-cl1\admin** アカウントでログインし、Microsoft 365 には **Joni Sherman** としてログインしておく必要があります。 
 
-2. **Microsoft Edge** で、**https://go.microsoft.com/fwlink/?linkid=2088639**に移動し、EDM ダウンロード エージェントにアクセスします。
+2. **Microsoft Edge** で、**https://go.microsoft.com/fwlink/?linkid=2088639** に移動し、EDM ダウンロード エージェントにアクセスします。
 
 3. 「**実行**」を選択して、ツールをダウンロードし、インストールします。
 
