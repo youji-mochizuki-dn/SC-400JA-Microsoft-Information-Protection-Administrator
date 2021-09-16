@@ -176,7 +176,7 @@ Office 365 Message Encryption での Google、Facebook などの海外の ID プ
 
 8. 以下の画像のような Lynne Robbins からのメッセージとなるはずです。  「**メッセージを読む**」 を選択します。
 
-    ![Lynne Robbins からの暗号化されたメールの例 ](../Media/EncryptedEmail.png)
+    ![Lynne Robbins からの暗号化されたメールの例](../Media/EncryptedEmail.png)
 
 9. 両方のオプションが利用可能となり、カスタマイズした OME 構成がソーシャル ID をアクティブ化されます。「**ワンタイム パスコードを使用してサインイン**」 を選択して、制限時間付きパスコードを受け取ります。
 
