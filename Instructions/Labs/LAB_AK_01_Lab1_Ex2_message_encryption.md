@@ -42,7 +42,9 @@
 
 14. Office 365 Message Encryption に使われる Azure RMS テンプレートを次のコマンドレットを使用して、もう一方のパイロット ユーザー **Megan Bowen** に対してテストし、**Enter** キーを押します。
 
-    `Test-IRMConfiguration -Sender MeganB@contoso.com`
+    `Test-IRMConfiguration -Sender MeganB@contoso.com -Recipient MeganB@contoso.com`
+
+    ![IRM 検証スクリプトの結果。 ](../Media/IRMvalidationl.png)
 
 15. すべてのテストが PASS のステータスであり、エラーが表示されていないことを確認します。
 
@@ -174,7 +176,7 @@ Office 365 Message Encryption での Google、Facebook などの海外の ID プ
 
 8. 以下の画像のような Lynne Robbins からのメッセージとなるはずです。  「**メッセージを読む**」 を選択します。
 
-    ![Lynne Robbins からの暗号化されたメールの例 ](../Media/EncryptedEmail.png)
+    ![Lynne Robbins からの暗号化されたメールの例](../Media/EncryptedEmail.png)
 
 9. 両方のオプションが利用可能となり、カスタマイズした OME 構成がソーシャル ID をアクティブ化されます。「**ワンタイム パスコードを使用してサインイン**」 を選択して、制限時間付きパスコードを受け取ります。
 
